@@ -1,0 +1,5 @@
+                <div class='socialbutton'>
+                  <a class='scfb' href='https://www.facebook.com/kiryuuco' target='_blank'><i class='fab fa-facebook-f'/></a>
+                  <a class='scig' href='https://www.instagram.com/kiryuuid/' target='_blank'><i class='fab fa-instagram'/></a>
+                  <a class='scdc' href='https://discord.com/invite/VFWVDDPgDg' target='_blank'><i class='fab fa-discord'/></a>
+                </div>
